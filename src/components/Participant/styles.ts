@@ -26,5 +26,5 @@ export const styles = StyleSheet.create({
     backgroundColor: '#E23C44',
     alignItems: 'center',
     justifyContent: 'center'
-  },
+  }
 });
